@@ -1,0 +1,31 @@
+{
+  "12": {
+    "id": "understanding_the_chain_of_thought_revolution",
+    "title": "Understanding the Chain of Thought Revolution",
+    "totalSlides": 45,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Understanding-the-Chain-of-Thought-Revolution.pdf",
+    "firstMessage": "Welcome to Understanding the Chain of Thought Revolution. Are you ready to begin?",
+    "sections": [
+      { "label": "Introduction and Overview (slides 1-4)", "startSlide": 1 },
+      { "label": "Evolution and Discovery (slides 5-8)", "startSlide": 5 },
+      { "label": "Understanding CoT Framework (slides 9-15)", "startSlide": 9 },
+      { "label": "Components and Prompt Engineering (slides 16-30)", "startSlide": 16 },
+      { "label": "Advanced Reasoning Techniques (slides 31-37)", "startSlide": 31 },
+      { "label": "Future Applications and Impact (slides 38-42)", "startSlide": 38 },
+      { "label": "AGI and Possibilities (slides 43-45)", "startSlide": 43 }
+    ]
+  },
+  "14": {
+    "id": "storytelling_that_sells",
+    "title": "Storytelling That Sells (JSON)",
+    "totalSlides": 41,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Storytelling-That-Sells.pdf",
+    "firstMessage": "Welcome to Storytelling That Sells. Are you ready to begin?",
+    "sections": [
+      { "label": "Introduction and Foundations (slides 1-7)", "startSlide": 1 },
+      { "label": "The S.T.O.R.Y. Framework (slides 8-21)", "startSlide": 7 },
+      { "label": "Stories Across the Sales Process (slides 22-31)", "startSlide": 21 },
+      { "label": "Mastering Delivery and Application (slides 32-41)", "startSlide": 31 }
+    ]
+  }
+}
