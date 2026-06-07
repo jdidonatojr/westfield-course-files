@@ -1,4 +1,339 @@
 {
+  "1": {
+    "id": "reclaim_your_time_use_google_gemini_to_tackle_daily_tasks",
+    "title": "Reclaim Your Time   Use Google Gemini to Tackle Daily Tasks",
+    "totalSlides": 40,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Reclaim-Your-Time-Use-Google-Gemini-to-Tackle-Daily-Tasks.pdf",
+    "firstMessage": "Welcome to Reclaim Your Time   Use Google Gemini to Tackle Daily Tasks. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Opening and Welcome (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Introduction to Gemini (slides 4-15)",
+        "startSlide": 4
+      },
+      {
+        "label": "Brainstorming and Planning (slides 16-21)",
+        "startSlide": 16
+      },
+      {
+        "label": "Content Creation (slides 22-27)",
+        "startSlide": 22
+      },
+      {
+        "label": "Data Analysis (slides 28-33)",
+        "startSlide": 28
+      },
+      {
+        "label": "Hands-On Practice (slides 34-35)",
+        "startSlide": 34
+      },
+      {
+        "label": "Recap and Resources (slides 36-40)",
+        "startSlide": 36
+      }
+    ]
+  },
+  "2": {
+    "id": "negotiation_tactics_for_sales",
+    "title": "Negotiation Tactics For Sales",
+    "totalSlides": 34,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Negotiation-Tactics-For-Sales.pdf",
+    "firstMessage": "Welcome to Negotiation Tactics For Sales. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Module 1 — Foundations (5-8)",
+        "startSlide": 5
+      },
+      {
+        "label": "Module 2 — Identifying Tactics (9-15)",
+        "startSlide": 9
+      },
+      {
+        "label": "Module 3 — Countering Techniques (16-22)",
+        "startSlide": 16
+      },
+      {
+        "label": "Module 4 — Role-Playing Scenarios (23-29)",
+        "startSlide": 23
+      },
+      {
+        "label": "Module 5 — Measuring Success (30-33)",
+        "startSlide": 30
+      },
+      {
+        "label": "Course Wrap-Up (34)",
+        "startSlide": 34
+      }
+    ]
+  },
+  "3": {
+    "id": "chatgpt_agentic_teammates_part1",
+    "title": "How to Use ChatGPT to Build Your Agentic AI Teammates (Part 1)",
+    "totalSlides": 20,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/How-to-Use-ChatGPT-to-Build-Your-Agentic-AI-Teammates-Part1.pdf",
+    "firstMessage": "Welcome to How to Use ChatGPT to Build Your Agentic AI Teammates. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Full Course (slides 1-20)",
+        "startSlide": 1
+      }
+    ]
+  },
+  "4": {
+    "id": "ace_your_next_job_interview",
+    "title": "Ace Your Next Job Interview",
+    "totalSlides": 36,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Ace-Your-Next-Job-Interview.pdf",
+    "firstMessage": "Welcome to Ace Your Next Job Interview. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Full Course (slides 1-37)",
+        "startSlide": 1
+      }
+    ]
+  },
+  "5": {
+    "id": "advanced_objection_handling",
+    "title": "Advanced Objection Handling",
+    "totalSlides": 20,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Advanced-Objection-Handling.pdf",
+    "firstMessage": "Welcome to Advanced Objection Handling. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Understanding Objection Levels (slides 3-5)",
+        "startSlide": 3
+      },
+      {
+        "label": "The Seven-Step Framework (slides 6-13)",
+        "startSlide": 6
+      },
+      {
+        "label": "Advanced Techniques (slides 14-15)",
+        "startSlide": 14
+      },
+      {
+        "label": "Category-Specific Objections (slides 16-18)",
+        "startSlide": 16
+      },
+      {
+        "label": "Modern Tools and Conclusion (slides 19-20)",
+        "startSlide": 19
+      }
+    ]
+  },
+  "6": {
+    "id": "how_to_use_chatgpt_to_build_your_agentic_ai_teammates_-_part_2",
+    "title": "How to Use ChatGPT to Build Your Agentic AI Teammates - Part 2",
+    "totalSlides": 11,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/How-to-Use-ChatGPT-to-Build-Your-Agentic-AI-Teammates---Part-2.pdf",
+    "firstMessage": "Welcome to How to Use ChatGPT to Build Your Agentic AI Teammates - Part 2. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Objectives (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Foundational Concepts (slides 3-4)",
+        "startSlide": 3
+      },
+      {
+        "label": "CINDEF Framework (slides 5-6)",
+        "startSlide": 5
+      },
+      {
+        "label": "Advanced Application (slides 7-8)",
+        "startSlide": 7
+      },
+      {
+        "label": "Practical Implementation (slides 9-10)",
+        "startSlide": 9
+      },
+      {
+        "label": "Closing and Reflection (slide 11)",
+        "startSlide": 11
+      }
+    ]
+  },
+  "7": {
+    "id": "power_your_job_search_with_google_tools",
+    "title": "Power Your Job Search with Google Tools",
+    "totalSlides": 45,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Power-Your-Job-Search-with-Google-Tools.pdf",
+    "firstMessage": "Welcome to Power Your Job Search with Google Tools. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Track Your Job Search (slides 3-9)",
+        "startSlide": 3
+      },
+      {
+        "label": "Find Job Opportunities (slides 10-25)",
+        "startSlide": 10
+      },
+      {
+        "label": "Create Your Resume (slides 26-34)",
+        "startSlide": 26
+      },
+      {
+        "label": "Interview Preparation (slides 35-37)",
+        "startSlide": 35
+      },
+      {
+        "label": "Recap and Resources (slides 38-45)",
+        "startSlide": 38
+      }
+    ]
+  },
+  "8": {
+    "id": "consultative_selling_mastery",
+    "title": "Consultative Selling Mastery",
+    "totalSlides": 34,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Consultative-Selling-Mastery.pdf",
+    "firstMessage": "Welcome to Consultative Selling Mastery. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Overview (slides 1-5)",
+        "startSlide": 1
+      },
+      {
+        "label": "Understanding Consultative Selling (slides 6-11)",
+        "startSlide": 6
+      },
+      {
+        "label": "Building Client Relationships (slides 12-16)",
+        "startSlide": 12
+      },
+      {
+        "label": "Needs Assessment Techniques (slides 17-22)",
+        "startSlide": 17
+      },
+      {
+        "label": "Crafting Tailored Solutions (slides 23-27)",
+        "startSlide": 23
+      },
+      {
+        "label": "Measuring Success and Feedback (slides 28-31)",
+        "startSlide": 28
+      },
+      {
+        "label": "Action Planning and Closing (slides 32-34)",
+        "startSlide": 32
+      }
+    ]
+  },
+  "9": {
+    "id": "how_to_build_agentic_ai_agents_that_feel_human_and_have_depth",
+    "title": "How to Build Agentic AI Agents That Feel Human and Have Depth",
+    "totalSlides": 15,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/How-to-Build-Agentic-AI-Agents-That-Feel-Human-and-Have-Depth.pdf",
+    "firstMessage": "Welcome to How to Build Agentic AI Agents That Feel Human and Have Depth. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction to Vibe Coding (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Vibe Coding Fundamentals (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "The Vibe Coding Process (slides 7-10)",
+        "startSlide": 7
+      },
+      {
+        "label": "Building AI Agents Practically (slides 11-14)",
+        "startSlide": 11
+      },
+      {
+        "label": "Your AI Future Awaits (slide 15)",
+        "startSlide": 15
+      }
+    ]
+  },
+  "10": {
+    "id": "make_your_website_work_for_you",
+    "title": "Make Your Website Work for You",
+    "totalSlides": 44,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Make-Your-Website-Work-for-You.pdf",
+    "firstMessage": "Welcome to Make Your Website Work for You. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Setting Goals and Measuring (slides 5-12)",
+        "startSlide": 5
+      },
+      {
+        "label": "Search Optimization (slides 13-19)",
+        "startSlide": 13
+      },
+      {
+        "label": "Convenience and Design (slides 20-26)",
+        "startSlide": 20
+      },
+      {
+        "label": "Organization and Content (slides 27-33)",
+        "startSlide": 27
+      },
+      {
+        "label": "Trust and Security (slides 34-36)",
+        "startSlide": 34
+      },
+      {
+        "label": "Recap and Resources (slides 37-44)",
+        "startSlide": 37
+      }
+    ]
+  },
+  "11": {
+    "id": "ai_prompt_engineering_for_sales_professionals",
+    "title": "AI Prompt Engineering for Sales Professionals",
+    "totalSlides": 40,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/AI-Prompt-Engineering-for-Sales-Professionals.pdf",
+    "firstMessage": "Welcome to AI Prompt Engineering for Sales Professionals. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Course Overview (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Prompt Engineering Fundamentals (slides 5-10)",
+        "startSlide": 5
+      },
+      {
+        "label": "Crafting Effective Sales Prompts (slides 11-20)",
+        "startSlide": 11
+      },
+      {
+        "label": "Customer Engagement and Communication (slides 21-30)",
+        "startSlide": 21
+      },
+      {
+        "label": "Sales Analytics and Data-Driven Insights (slides 31-35)",
+        "startSlide": 31
+      },
+      {
+        "label": "Future of AI in Sales (slides 36-40)",
+        "startSlide": 36
+      }
+    ]
+  },
   "12": {
     "id": "understanding_the_chain_of_thought_revolution",
     "title": "Understanding the Chain of Thought Revolution",
@@ -6,26 +341,306 @@
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Understanding-the-Chain-of-Thought-Revolution.pdf",
     "firstMessage": "Welcome to Understanding the Chain of Thought Revolution. Are you ready to begin?",
     "sections": [
-      { "label": "Introduction and Overview (slides 1-4)", "startSlide": 1 },
-      { "label": "Evolution and Discovery (slides 5-8)", "startSlide": 5 },
-      { "label": "Understanding CoT Framework (slides 9-15)", "startSlide": 9 },
-      { "label": "Components and Prompt Engineering (slides 16-30)", "startSlide": 16 },
-      { "label": "Advanced Reasoning Techniques (slides 31-37)", "startSlide": 31 },
-      { "label": "Future Applications and Impact (slides 38-42)", "startSlide": 38 },
-      { "label": "AGI and Possibilities (slides 43-45)", "startSlide": 43 }
+      {
+        "label": "Introduction and Overview (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Evolution and Discovery (slides 5-8)",
+        "startSlide": 5
+      },
+      {
+        "label": "Understanding CoT Framework (slides 9-15)",
+        "startSlide": 9
+      },
+      {
+        "label": "Components and Prompt Engineering (slides 16-30)",
+        "startSlide": 16
+      },
+      {
+        "label": "Advanced Reasoning Techniques (slides 31-37)",
+        "startSlide": 31
+      },
+      {
+        "label": "Future Applications and Impact (slides 38-42)",
+        "startSlide": 38
+      },
+      {
+        "label": "AGI and Possibilities (slides 43-45)",
+        "startSlide": 43
+      }
+    ]
+  },
+  "13": {
+    "id": "build_your_professional_brand",
+    "title": "Build Your Professional Brand",
+    "totalSlides": 47,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Build-Your-Professional-Brand.pdf",
+    "firstMessage": "Welcome to Build Your Professional Brand. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Understanding Professional Brands (slides 3-8)",
+        "startSlide": 3
+      },
+      {
+        "label": "Defining Your Brand (slides 9-19)",
+        "startSlide": 9
+      },
+      {
+        "label": "Building Your Online Presence (slides 20-33)",
+        "startSlide": 20
+      },
+      {
+        "label": "Growing Your Network (slides 34-39)",
+        "startSlide": 34
+      },
+      {
+        "label": "Action and Resources (slides 40-47)",
+        "startSlide": 40
+      }
     ]
   },
   "14": {
     "id": "storytelling_that_sells",
-    "title": "Storytelling That Sells (JSON)",
+    "title": "Storytelling That Sells",
     "totalSlides": 41,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Storytelling-That-Sells.pdf",
     "firstMessage": "Welcome to Storytelling That Sells. Are you ready to begin?",
     "sections": [
-      { "label": "Introduction and Foundations (slides 1-7)", "startSlide": 1 },
-      { "label": "The S.T.O.R.Y. Framework (slides 8-21)", "startSlide": 7 },
-      { "label": "Stories Across the Sales Process (slides 22-31)", "startSlide": 21 },
-      { "label": "Mastering Delivery and Application (slides 32-41)", "startSlide": 31 }
+      {
+        "label": "Introduction and Foundations (slides 1-7)",
+        "startSlide": 1
+      },
+      {
+        "label": "The S.T.O.R.Y. Framework (slides 8-21)",
+        "startSlide": 7
+      },
+      {
+        "label": "Stories Across the Sales Process (slides 22-31)",
+        "startSlide": 21
+      },
+      {
+        "label": "Mastering Delivery and Application (slides 32-41)",
+        "startSlide": 31
+      }
+    ]
+  },
+  "15": {
+    "id": "ai_literacy_for_beginners_what_everyone_needs_to_know",
+    "title": "AI Literacy for Beginners What Everyone Needs to Know",
+    "totalSlides": 20,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/AI-Literacy-for-Beginners-What-Everyone-Needs-to-Know.pdf",
+    "firstMessage": "Welcome to AI Literacy for Beginners What Everyone Needs to Know. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Course Overview (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "What Is AI? (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "What AI Can Do (slides 7-10)",
+        "startSlide": 7
+      },
+      {
+        "label": "What AI Cannot Do (slides 11-13)",
+        "startSlide": 11
+      },
+      {
+        "label": "Using AI Safely and Ethically (slides 14-16)",
+        "startSlide": 14
+      },
+      {
+        "label": "Practical Examples and Assessment (slides 17-19)",
+        "startSlide": 17
+      },
+      {
+        "label": "Course Wrap-Up (slide 20)",
+        "startSlide": 20
+      }
+    ]
+  },
+  "16": {
+    "id": "coach_your_team_to_success",
+    "title": "Coach Your Team to Success",
+    "totalSlides": 38,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Coach-Your-Team-to-Success.pdf",
+    "firstMessage": "Welcome to Coach Your Team to Success. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Great Manager Attributes (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "Coaching Fundamentals (slides 7-10)",
+        "startSlide": 7
+      },
+      {
+        "label": "Listening and Questioning (slides 11-18)",
+        "startSlide": 11
+      },
+      {
+        "label": "Coaching in Practice (slides 19-21)",
+        "startSlide": 19
+      },
+      {
+        "label": "Feedback and Growth (slides 22-27)",
+        "startSlide": 22
+      },
+      {
+        "label": "Summary and Resources (slides 28-38)",
+        "startSlide": 28
+      }
+    ]
+  },
+  "17": {
+    "id": "ai_powered_sales_coaching",
+    "title": "AI Powered Sales Coaching",
+    "totalSlides": 30,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/AI-Powered-Sales-Coaching.pdf",
+    "firstMessage": "Welcome to AI Powered Sales Coaching. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Course Overview (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Coaching at Scale with AI (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "Diagnosing Performance Gaps (slides 7-10)",
+        "startSlide": 7
+      },
+      {
+        "label": "Coaching Discovery and Sales Conversations (slides 11-14)",
+        "startSlide": 11
+      },
+      {
+        "label": "Evaluating Pipeline and Deal Quality (slides 15-18)",
+        "startSlide": 15
+      },
+      {
+        "label": "Feedback and Motivation Skills (slides 19-26)",
+        "startSlide": 19
+      },
+      {
+        "label": "Role-Play Practice and Skill Development (slides 27-29)",
+        "startSlide": 27
+      },
+      {
+        "label": "Building Your AI Coaching Toolkit (slide 30)",
+        "startSlide": 30
+      }
+    ]
+  },
+  "18": {
+    "id": "ai_powered_coaching_for_business_managers",
+    "title": "AI Powered Coaching for Business Managers",
+    "totalSlides": 40,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/AI-Powered-Coaching-for-Business-Managers.pdf",
+    "firstMessage": "Welcome to AI Powered Coaching for Business Managers. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-9)",
+        "startSlide": 1
+      },
+      {
+        "label": "Coaching Fundamentals (slides 10-18)",
+        "startSlide": 10
+      },
+      {
+        "label": "Real-World Scenarios (slides 19-29)",
+        "startSlide": 19
+      },
+      {
+        "label": "Practice and Role-Play (slides 30-36)",
+        "startSlide": 30
+      },
+      {
+        "label": "Building Your Toolkit (slides 37-40)",
+        "startSlide": 37
+      }
+    ]
+  },
+  "19": {
+    "id": "increase_your_sales_with_google_tools",
+    "title": "Increase Your Sales with Google Tools",
+    "totalSlides": 43,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Increase-Your-Sales-with-Google-Tools.pdf",
+    "firstMessage": "Welcome to Increase Your Sales with Google Tools. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Google Business Profile Basics (slides 5-12)",
+        "startSlide": 5
+      },
+      {
+        "label": "Optimize Your Business Profile (slides 13-23)",
+        "startSlide": 13
+      },
+      {
+        "label": "Google Merchant Center (slides 24-30)",
+        "startSlide": 24
+      },
+      {
+        "label": "Set Up for Success (slides 31-34)",
+        "startSlide": 31
+      },
+      {
+        "label": "Recap and Resources (slides 35-43)",
+        "startSlide": 35
+      }
+    ]
+  },
+  "999": {
+    "id": "mastering_the_canon_eos_r1",
+    "title": "Mastering the Canon EOS R1",
+    "totalSlides": 17,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Mastering-the-Canon-EOS-R1.pdf",
+    "firstMessage": "Welcome to Mastering the Canon EOS R1. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Overview (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "Sensor and Processing (slides 4-6)",
+        "startSlide": 4
+      },
+      {
+        "label": "Autofocus and Viewfinder (slides 7-10)",
+        "startSlide": 7
+      },
+      {
+        "label": "Customization and Controls (slides 11-12)",
+        "startSlide": 11
+      },
+      {
+        "label": "Connectivity and Setup (slides 13-14)",
+        "startSlide": 13
+      },
+      {
+        "label": "Practical Application (slides 15-16)",
+        "startSlide": 15
+      },
+      {
+        "label": "Module Summary (slide 17)",
+        "startSlide": 17
+      }
     ]
   }
 }
