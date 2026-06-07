@@ -94,8 +94,32 @@
     "firstMessage": "Welcome to Ace Your Next Job Interview. Are you ready to begin?",
     "sections": [
       {
-        "label": "Full Course (slides 1-37)",
+        "label": "Introduction (slides 1-3)",
         "startSlide": 1
+      },
+      {
+        "label": "Research and Preparation (slides 4-16)",
+        "startSlide": 4
+      },
+      {
+        "label": "Practice and Feedback (slides 17-20)",
+        "startSlide": 17
+      },
+      {
+        "label": "Be Present Mindset (slides 21-25)",
+        "startSlide": 21
+      },
+      {
+        "label": "Common Questions (slides 26-29)",
+        "startSlide": 26
+      },
+      {
+        "label": "Follow-Up and Summary (slides 30-31)",
+        "startSlide": 30
+      },
+      {
+        "label": "Resources and Closing (slides 32-36)",
+        "startSlide": 32
       }
     ]
   },
