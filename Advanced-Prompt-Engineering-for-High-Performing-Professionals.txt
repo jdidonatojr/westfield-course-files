@@ -1,0 +1,422 @@
+ADVANCED PROMPT ENGINEERING FOR HIGH PERFORMING PROFESSIONALS
+Full course content for AI instructor
+======================================================================
+
+
+=== SLIDE 1 ===
+
+Visible content on slide:
+Advanced Prompt Engineering for High Performing Professionals
+Part 2 Agenda
+by Joe DiDonato
+
+Speaker notes (how to teach this slide):
+• Welcome everyone back to Part 2 of our Using ChatGPT to build Agentic AI Teammates • This session is specifically designed for high-performing professionals like yourselves who want to master AI interactions • We're building on foundational concepts to explore more sophisticated techniques • Today's agenda will cover practical, advanced strategies you can immediately apply in your work • By the end of this session, you'll have new tools to dramatically improve your AI outputs and efficiency
+
+
+1
+
+----------------------------------------------------------------------
+
+=== SLIDE 2 ===
+
+Visible content on slide:
+Learning Objectives
+Differentiate prompt structures
+Basic vs advanced techniques
+Apply advanced Prompt Engineering frameworks
+CINDEF (Context, Instructions, Details, Format) + Persona
+Transform basic prompts into advanced L&D prompts
+Using L&D specific scenarios
+Utilize persona scaffolding
+Key strategy for better results
+
+Speaker notes (how to teach this slide):
+• We're covering four key learning objectives today that will build your prompt engineering skills
+
+• First, you'll learn to spot the difference between basic and advanced prompt structures—understanding what separates a generic prompt from a powerful one
+
+• Second, we'll dive into the CINDEF framework—that's Context, Instructions, Details, and Format, plus Persona. This is your core toolkit for crafting sophisticated prompts
+
+• Third, we'll take those basic prompts and level them up specifically for L&D scenarios. You'll see real examples of how to transform everyday prompts into learning and development gold
+
+• Finally, persona scaffolding is a game-changer. By the end of this session, you'll understand why assigning a specific role or perspective to the AI dramatically improves your results
+
+By the end of today, you'll have practical frameworks and techniques you can use immediately in your work.
+
+
+2
+
+----------------------------------------------------------------------
+
+=== SLIDE 3 ===
+
+Visible content on slide:
+Persona Scaffolding
+Prompt scaffolding draws inspiration from educational scaffolding techniques, where support is provided to learners and gradually removed as they gain proficiency. Key aspects of AI Prompt scaffolding include:
+Incremental Complexity: Gradually increasing the difficulty or depth of prompts.
+Structured Guidance: Providing a clear framework for the AI to follow.
+Step-by-Step Approach: Breaking down complex tasks into manageable steps.
+Context Building: Progressively adding context and information.
+Adaptive Support: Adjusting the level of guidance based on the AI's responses.
+
+Speaker notes (how to teach this slide):
+• Think of prompt scaffolding like building construction—we're creating a framework of support that gets stronger as we go
+
+• It's borrowed from education: teachers give students support, then gradually remove it as they become more capable. Same principle applies to prompting AI.
+
+• Incremental Complexity: Don't ask everything at once. Start simple, then layer in more challenging requests as the AI demonstrates understanding.
+
+• Structured Guidance: Give the AI a clear roadmap. Think of it like giving directions with landmarks rather than just saying "go that way."
+
+• Step-by-Step Approach: Break big tasks into smaller chunks. Instead of "write a marketing campaign," try "first, identify the target audience, then develop three key messages, then create headlines."
+
+• Context Building: Feed information gradually. Start with basic context, then add details, examples, or constraints as needed.
+
+• Adaptive Support: Pay attention to how the AI responds. If it's nailing it, you can reduce guidance. If it's struggling, add more structure and examples.
+
+• The key insight: better results come from building up systematically, not dumping everything into one massive prompt.
+
+
+3
+
+----------------------------------------------------------------------
+
+=== SLIDE 4 ===
+
+Visible content on slide:
+From Basic to Advanced
+Basic Prompts
+Single instructions
+Limited context
+Generic outputs
+Advanced Prompts
+Persona-Based
+Context, Instructions, Details, & Format (CINDEF)
+Tailored, precise results
+
+Speaker notes (how to teach this slide):
+• The image shows the difference between basic and advanced results—think of it like building a simple shed versus an elaborate mansion
+
+• Basic prompts are straightforward but limited:
+
+Just one instruction without much thought
+
+You're not giving the AI much context about what you need
+
+Results tend to be generic and one-size-fits-all
+
+• Advanced prompts are more sophisticated:
+
+You assign a persona or role to the AI—this shapes how it responds
+
+You use the CINDEF framework: Context, Instructions, Details, and Format
+
+This approach gives you tailored, precise results that actually match what you're looking for
+
+• The key takeaway: the more thoughtful and structured your prompt, the better your output. We're moving from lazy requests to strategic ones.
+
+
+4
+
+----------------------------------------------------------------------
+
+=== SLIDE 5 ===
+
+Visible content on slide:
+CINDEF Framework
+A structured approach to crafting advanced prompts
+Context
+Set relevant background information
+Instructions
+Specify clear objectives and tasks
+Details
+Add specific parameters and constraints
+Format
+Define desired output structure
+
+Speaker notes (how to teach this slide):
+• Introduce CINDEF as a practical framework for writing better AI prompts • Walk through each of the four components in order:
+
+Context - Start by explaining the importance of background information. This helps the AI understand what situation or domain you're working in. It's like setting the stage for what comes next.
+
+Instructions - These are your clear directives. Tell the AI exactly what you want it to do. Be specific about your objectives and the tasks you need completed.
+
+Details - This is where you add the specifics. Include parameters, constraints, limitations, or any special requirements that will shape the output. Think of it as fine-tuning your request.
+
+Format - End by specifying how you want the answer. Do you want a list? A paragraph? A table? Code? Being explicit about format saves time and gets you exactly what you need.
+
+• Emphasize that this structured approach leads to more effective and reliable prompts • Note that these four elements work together—each one builds on the previous to create a complete, well-crafted prompt
+
+
+5
+
+----------------------------------------------------------------------
+
+=== SLIDE 6 ===
+
+Visible content on slide:
+Persona-Based Prompting + CINDEF
+Adding personas to your framework enhances creation of complete learning experiences
+Expert Knowledge Layer
+Infuses domain expertise into content structure
+Professional Perspective
+Aligns with real-world L&D applications
+Learning Context
+Adapts to course, book, e-learning, & other learning modalities
+Quality Assurance
+Ensures pedagogical effectiveness and engagement
+When combined with the CIDF framework, persona-based prompting creates more authentic and effective learning materials tailored to specific delivery modalities.
+
+Speaker notes (how to teach this slide):
+• Persona-based prompting takes your CIDEF framework to the next level by adding specific roles and perspectives
+
+• Four key benefits work together:
+
+Expert Knowledge Layer – Brings real domain expertise into how content is structured and presented
+
+Professional Perspective – Grounds everything in actual L&D practice, not just theory
+
+Learning Context – Makes the framework flexible across different delivery formats—whether it's a course, book, e-learning module, or something else
+
+Quality Assurance – Keeps focus on what actually works pedagogically and keeps learners engaged
+
+• The magic happens when you combine personas with CIDEF—you get learning materials that feel authentic and are specifically tailored to how they'll actually be delivered
+
+• This means your content doesn't just follow a framework; it speaks from a credible voice and adapts to real-world learning situations
+
+
+6
+
+----------------------------------------------------------------------
+
+=== SLIDE 7 ===
+
+Visible content on slide:
+Persona + CINDEF Workflow
+Complete framework for creating advanced prompts like a professional prompt engineer
+Persona
+Define the expert role or perspective the AI should adopt
+Establishes authority and expertise level
+Sets the tone and communication style
+Creates consistent voice throughout response
+Context
+Set relevant background information
+Instructions
+Specify clear objectives and tasks
+Details
+Add specific parameters and constraints
+Format
+Define desired output structure
+Starting with a well-defined persona anchors the entire prompt, providing context for how the remaining CIDF elements should be interpreted and applied.
+
+Speaker notes (how to teach this slide):
+• This is the complete framework for professional prompt engineering: Persona + CIDEF
+
+• Persona - Start here. Define what expert role or perspective you want the AI to adopt
+
+Gives the AI authority and credibility
+
+Sets the tone and communication style
+
+Ensures consistent voice throughout the response
+
+• Context - Provide the relevant background information the AI needs to understand the situation
+
+• Instructions - Be clear about what you want the AI to do and what objectives you're trying to achieve
+
+• Details - Add the specific parameters, constraints, and requirements that shape the output
+
+• Format - Tell the AI exactly how you want the answer structured and presented
+
+• Key takeaway: Starting with a strong persona anchors everything else. It tells the AI how to interpret all the other elements that follow.
+
+
+7
+
+----------------------------------------------------------------------
+
+=== SLIDE 8 ===
+
+Visible content on slide:
+From Basic to Prompt Engineering Level Quality:
+Basic Prompt
+Create a course on Management 101 concepts for middle managers.
+Advanced Prompt (CINDEF Framework)
+Persona: Adopt the role of a seasoned management trainer with 12 years of experience, specializing in developing leadership skills for middle managers.
+Context: Use terms like 'decision-making frameworks' and 'team dynamics' and assume knowledge of basic business operations. Explain why this matters: As organizations evolve, middle managers play a pivotal role in bridging strategy and execution, making foundational management skills essential for organizational success.
+Instructions: Break into 5 modules: 1. Core Management Principles 2. Effective Decision-Making 3. Enhancing Team Dynamics 4. Communication and Influence 5. Managing Change and Innovation.
+Details: Use action verbs: 'Implement,' 'Facilitate,' 'Drive.' Include success metrics: 'Participants must demonstrate improved team engagement scores by 20%.' Mandatory: Use real-world scenarios and management case studies. Tone: Practical and empowering. Avoid overly academic language. Required sections: Learning objectives, interactive activities, self-assessment tools.
+Format: Course outline with modules, learning objectives, and delivery suggestions.
+
+Speaker notes (how to teach this slide):
+• Show the contrast: Basic prompt gets basic output—generic, surface-level content. Advanced prompt gets structured, tailored, high-quality results.
+
+• Left side—Basic approach: Just asking for a course without specifics. Results in generic modules, no clear learning outcomes, lacks practical application.
+
+• Right side—Advanced approach using CINDEF Framework:
+
+Persona: Give the AI a role—experienced trainer with 12 years in leadership development. This shapes the tone and depth.
+
+Context: Provide background on why this matters—middle managers bridge strategy and execution. Use industry language they'll understand.
+
+Instructions: Be specific about structure—5 distinct modules with clear progression.
+
+Details: Define what success looks like—20% improvement in engagement scores. Specify tone (practical, not academic), required elements (case studies, self-assessments).
+
+Format: Clarify exactly what you want to receive.
+
+• Key takeaway: The more specific and structured your prompt, the better the output. CINDEF gives you a repeatable framework to engineer prompts that deliver professional-quality results every time.
+
+
+8
+
+----------------------------------------------------------------------
+
+=== SLIDE 9 ===
+
+Visible content on slide:
+Homework Assignment
+📌 Step 1: Choose a Passion Topic
+Pick something you're genuinely passionate about — it could be another teammate, gardening, mentoring young professionals, public speaking, jazz music, wellness, or even a favorite leadership book or framework. Pages 44-52 in the workbook (https://heyzine.com/flip-book/ESourceChatGPTGuide.html)
+📌 Option 1: Use the Advanced Prompt Guideline Below to Guide Creation
+Paste the prompt below into the L&D Expert Assistant to generate your personalized learning content.
+ADVANCED PROMPT:
+"Pretend you are a senior instructional designer with 10+ years of experience in adult learning and training development. Create a [COURSE OUTLINE, BOOK OUTLINE, E-LEARNING STORYBOARD or LEARNING EXPERIENCE] based on my passion for [INSERT YOUR TOPIC HERE]. Assume the audience is adult professionals with varying exposure to the topic.
+Explain why this topic matters today in the context of personal or professional growth. Break the learning experience into [2–10] modules. Include learning objectives, engaging activities, and optional reflection exercises.
+Mandatory: Use a tone that is encouraging and informative. Avoid academic jargon. Include sections for: Title, Audience, Objectives, Module Titles with Descriptions, and Delivery Suggestions. Format as a ready-to-use L&D outline."
+
+Speaker notes (how to teach this slide):
+• This is a hands-on homework assignment with two clear pathways
+
+• Step 1 — Pick your passion topic
+
+Think about what genuinely excites you — could be a person, hobby, skill, or concept
+
+Reference pages 44-52 in the workbook for inspiration and guidance
+
+The topic should be something you care about, not just what sounds impressive
+
+• Option 1 — Use the advanced prompt
+
+Copy the prompt provided and paste it into the L&D Expert Assistant
+
+This prompt is designed to leverage AI to create professional learning content
+
+The prompt asks the AI to act as an experienced instructional designer
+
+It will generate a structured outline with modules, objectives, and activities
+
+The output will be ready to use — no heavy editing needed
+
+• Key elements the prompt will produce:
+
+Why your topic matters today
+
+2-10 learning modules
+
+Clear learning objectives
+
+Engaging activities and reflection exercises
+
+Professional L&D formatting
+
+• Emphasize: Don't overthink the topic choice — pick something real that matters to you, and let the AI handle the instructional design heavy lifting
+
+
+9
+
+----------------------------------------------------------------------
+
+=== SLIDE 10 ===
+
+Visible content on slide:
+Pretend you are an expert [JOB ROLE] with 15+ years of experience helping [TYPE OF CUSTOMER OR INDUSTRY].
+
+Your job is to act as my Digital Teammate and help me with:
+- [TASK 1]
+- [TASK 2]
+- [TASK 3]
+
+Always:
+- explain things in plain English
+- give practical, real-world advice
+- ask questions if information is missing
+- organize responses clearly
+- provide step-by-step help
+- recommend next actions
+- warn about mistakes or risks when appropriate
+
+Use this response format:
+1. Summary
+2. Recommendations
+3. Step-by-Step Actions
+4. Examples or Templates
+5. Next Best Actions
+
+Communication style:
+[EXAMPLE: professional, friendly, strategic, creative, analytical, encouraging]
+
+Act like a real professional teammate helping me succeed, not like a textbook or robotic chatbot.
+
+📌 Option 2: Use the Advanced Prompt template on the Left to Create Another Teammate
+
+Speaker notes (how to teach this slide):
+• This is the advanced prompt template you can customize for any expert role or industry • Fill in the bracketed sections with your specific job role, customer type, and tasks • The key is being specific—the more detailed you are, the better the AI assistant performs • Walk through each section: explain what each placeholder means and why it matters • Point out the "Always" section—these are non-negotiable guidelines that keep responses practical and useful • The response format (Summary through Next Best Actions) ensures you get organized, actionable output every time • Communication style is customizable—choose what fits your needs (professional, creative, analytical, etc.) • This template transforms a generic AI into a specialized teammate tailored to your exact situation • Show how to adapt it: give one quick example of filling it in for a real scenario • Emphasize: the more constraints and specificity you add, the more valuable the responses become
+
+
+10
+
+----------------------------------------------------------------------
+
+=== SLIDE 11 ===
+
+Visible content on slide:
+What You've Accomplished Today
+In 10 slides, you've built the foundation of a professional prompt engineer.
+Mastered advanced prompt engineering fundamentals
+Explored the Day 2 agenda and the purpose of advanced prompting.
+Clarified what makes prompts advanced
+Learned how advanced prompts differ from basic prompts in structure and effectiveness.
+Discovered the power of persona scaffolding
+Understood how scaffolding helps AI respond with more focus, context, and usefulness.
+Compared basic and advanced prompt structures
+Saw how stronger structure leads to clearer, more reliable outputs.
+Applied the CINDEF framework
+Used Context, Instructions, Details, and Format to shape better prompts.
+Combined persona and CINDEF prompting
+Learned how to layer role-based guidance with structured prompt design.
+Built a repeatable workflow for advanced prompts
+Followed a step-by-step process for creating stronger AI instructions.
+Recognized prompt engineering quality in action
+Compared basic prompts to high-quality prompt engineering examples.
+Started applying your skills to a passion topic
+Worked on homework that turns learning into real practice.
+Created a reusable Digital Teammate template
+Built a prompt you can adapt to collaborate with AI again and again.
+
+Speaker notes (how to teach this slide):
+• Take a moment to acknowledge the progress—10 slides is real work, and they've built something solid
+
+• Walk through each accomplishment briefly:
+
+Started with fundamentals and the "why" behind advanced prompting
+
+Moved from theory (what makes prompts advanced) to practical tools (persona, CINDEF)
+
+Built a repeatable workflow they can use going forward
+
+Practiced with real examples and homework
+
+• Emphasize the progression: they went from understanding concepts to applying them to their own work
+
+• Call out the Digital Teammate template as a tangible takeaway—something they can actually use tomorrow
+
+• Land on the bigger picture: they're not just learning techniques, they're building a skill set that compounds with use
+
+• This is a good moment to pause and let that sink in before moving to what's next
+
+
+11
+
+----------------------------------------------------------------------
