@@ -1,0 +1,527 @@
+PRACTICING DIFFICULT CONVERSATIONS WITH AI
+Full course content for AI instructor
+======================================================================
+
+
+=== SLIDE 1 ===
+
+Visible content on slide:
+Practicing Difficult Conversations with AI
+AI role-play gives managers a safe, private space to rehearse before the real moment arrives — building confidence, refining language, and preparing for resistance.
+Practice First
+Rehearse before real conversations
+Test Wording
+Refine how you say it
+Prepare for Pushback
+Anticipate resistance
+Build Confidence
+Improve with every attempt
+Receive Feedback
+Get coaching after each session
+Try Again Safely
+No real stakes, real learning
+Practice makes the real conversation better. Every rehearsal reduces anxiety and sharpens your approach.
+
+Speaker notes (how to teach this slide):
+• Open with the core idea: AI role-play lets you rehearse difficult conversations in a safe, private environment before the actual moment happens
+
+• Walk through each of the six benefits:
+
+Practice First — You get to run through it without consequences
+
+Test Wording — Try different ways of saying things until it feels right
+
+Prepare for Pushback — Anticipate how the other person might react and plan your response
+
+Build Confidence — Each attempt makes you more prepared and less anxious
+
+Receive Feedback — AI gives you coaching on what worked and what didn't
+
+Try Again Safely — No real stakes means you can experiment and learn
+
+• Close with the key takeaway: Practice with AI makes the real conversation smoother, less stressful, and more effective. Every rehearsal counts.
+
+
+1
+
+----------------------------------------------------------------------
+
+=== SLIDE 2 ===
+
+Visible content on slide:
+Role-Play Prompt — Defensive Employee
+Use this prompt to simulate a challenging conversation with an employee who missed deadlines and responds with emotional pushback. The AI will hold its ground — and then coach you.
+AI Prompt: "Act as a defensive employee who missed several deadlines. I am your manager. Push back respectfully but emotionally. Do not make the conversation easy. After 6 exchanges, switch to coaching observer and evaluate my performance."
+After 6 exchanges, the AI evaluates you across five dimensions:
+1
+Clarity
+Were your expectations clearly communicated?
+2
+Empathy
+Did you acknowledge the employee's perspective?
+3
+Listening
+Did you pause and respond to what was said?
+4
+Accountability
+Did you hold the standard without attacking?
+5
+Follow-Up
+Did you close with clear next steps?
+
+Speaker notes (how to teach this slide):
+• This is a role-play exercise to practice difficult conversations with underperforming employees
+
+• Use the AI prompt provided to set up a realistic scenario where the employee is defensive and emotional about missed deadlines
+
+• The AI will push back respectfully — don't expect an easy conversation. That's the point.
+
+• You'll have 6 exchanges with the AI before it switches roles
+
+• After the role-play, the AI becomes a coaching observer and gives you feedback on five key areas:
+
+Clarity: Did you communicate expectations clearly?
+
+Empathy: Did you acknowledge their perspective and feelings?
+
+Listening: Did you actually pause and respond to what they said, or just push your agenda?
+
+Accountability: Did you maintain the standard without being harsh or personal?
+
+Follow-Up: Did you end with concrete next steps and a clear path forward?
+
+• This exercise helps you build skills for these tough conversations in a safe environment
+
+
+2
+
+----------------------------------------------------------------------
+
+=== SLIDE 3 ===
+
+Visible content on slide:
+Role-Play Prompt
+Hesitant Employee
+This scenario trains managers to create psychological safety — drawing out an employee who is afraid to speak honestly.
+Key challenge: The employee only opens up if you ask the right questions with the right tone.
+AI Prompt: "Act as a hesitant employee who is unsure whether it is safe to speak honestly. I am your manager. Be cautious at first. If I ask supportive open-ended questions, gradually share more. After 6 exchanges, give feedback on my tone, listening, and questions."
+What the AI evaluates after the session:
+Tone
+Did your language feel safe and non-threatening?
+Listening
+Did you reflect back what the employee shared?
+Questions
+Were your questions open-ended and genuinely curious?
+
+Speaker notes (how to teach this slide):
+• This is a role-play scenario designed to help you practice building psychological safety with your team
+
+• You'll be interacting with an AI playing a hesitant employee — someone who's nervous about speaking up
+
+• The key to success: ask the right questions in the right way. Your tone and approach will determine whether they open up
+
+• Walk through the conversation naturally — you're trying to create an environment where it feels safe to be honest
+
+• After 6 exchanges, the AI will give you feedback on three critical areas:
+
+Tone: Did you sound approachable and non-threatening?
+
+Listening: Did you actually reflect back what they said, or just move on?
+
+Questions: Were you genuinely curious with open-ended questions, or did you ask leading/closed questions?
+
+• Remember: the employee's willingness to share is your real-time feedback. If they're still guarded, adjust your approach
+
+
+3
+
+----------------------------------------------------------------------
+
+=== SLIDE 4 ===
+
+Visible content on slide:
+Role-Play Prompt — Disengaged Employee
+This scenario challenges managers to stay patient and curious when an employee gives minimal responses and seems emotionally checked out. The real reason only emerges if you ask the right questions.
+AI Prompt: "Act as a disengaged employee who gives short answers and seems checked out. I am your manager. Do not reveal the full reason immediately. If I ask thoughtful questions, share more context. After 6 exchanges, evaluate my patience, curiosity, and next steps."
+Patience
+Did you resist filling silence or rushing to conclusions?
+Curiosity
+Did you dig deeper rather than accept surface answers?
+Next Steps
+Did you leave the conversation with a clear path forward?
+
+Speaker notes (how to teach this slide):
+• This is a role-play scenario designed to test your management skills in a challenging situation
+
+• The setup: you're meeting with an employee who appears disengaged and gives short answers—they seem emotionally checked out
+
+• The catch: there's a real underlying reason, but it won't come out unless you ask the right questions
+
+• You'll be interacting with an AI playing the disengaged employee for about 6 exchanges
+
+• After the role-play, we'll evaluate you on three key dimensions:
+
+Patience: Did you stay calm and resist the urge to fill silences or jump to conclusions?
+
+Curiosity: Did you ask thoughtful follow-up questions, or did you accept surface-level answers?
+
+Next Steps: Did you end the conversation with concrete actions and a clear path forward?
+
+• This mirrors real workplace situations where disengagement often masks deeper issues—the manager who stays curious and patient is the one who actually uncovers what's really going on
+
+
+4
+
+----------------------------------------------------------------------
+
+=== SLIDE 5 ===
+
+Visible content on slide:
+AI as Coaching Observer
+After completing a practice conversation, use AI to step back and evaluate your performance objectively. Paste an anonymized transcript or coaching plan and let the AI act as your personal coaching observer.
+AI Prompt: "Act as a coaching observer. Review this anonymized coaching plan or transcript: [insert]. Evaluate the following dimensions, then give me 2 strengths, 2 improvements, and a stronger closing statement."
+01
+Purpose
+Was the goal of the conversation clear?
+02
+Listening
+Did you demonstrate active listening?
+03
+Questions
+Were questions open and coaching-oriented?
+04
+Feedback Clarity
+Was feedback specific and actionable?
+05
+Empathy
+Did you acknowledge feelings and context?
+06
+Accountability
+Were standards upheld with respect?
+07
+Follow-Up
+Were next steps defined and owned?
+
+Speaker notes (how to teach this slide):
+• Introduce the concept: AI can serve as an objective observer after you practice coaching conversations
+
+• Walk through the process: record or transcribe your conversation, anonymize it, then feed it to AI for evaluation
+
+• Share the prompt template on the left—shows exactly how to structure the request for AI feedback
+
+• Highlight the seven evaluation dimensions on the right:
+
+Purpose: Was the coaching goal established upfront?
+
+Listening: Did you truly hear what was being said?
+
+Questions: Were your questions open-ended and coaching-focused, not leading?
+
+Feedback Clarity: Did you give specific, actionable feedback they could actually use?
+
+Empathy: Did you acknowledge their feelings and the broader context?
+
+Accountability: Did you maintain standards while still being respectful?
+
+Follow-Up: Did you leave them with clear, owned next steps?
+
+• Emphasize the value: AI gives you honest, unbiased feedback on 2 strengths to build on and 2 areas to improve—plus a suggestion for a stronger closing
+
+• This is a practical way to accelerate your coaching development between live sessions
+
+
+5
+
+----------------------------------------------------------------------
+
+=== SLIDE 6 ===
+
+Visible content on slide:
+Repeatable Weekly AI Coaching Workflow
+Build AI-assisted coaching into your weekly rhythm. This workflow ensures you are always prepared, reflective, and improving — without adding significant time to your schedule.
+1
+Monday
+Prepare one-on-ones with AI-assisted prompts
+2
+Before Feedback
+Check clarity and tone with AI review
+3
+Before Difficult Conversations
+Run a role-play scenario to rehearse
+4
+After Conversations
+Reflect and identify follow-up actions
+5
+Friday
+Review commitments and coaching patterns
+6
+Monthly
+Update employee development plans
+Consistency is the key. A few minutes of AI-assisted preparation each day compounds into significantly stronger coaching over time.
+
+Speaker notes (how to teach this slide):
+• This is a practical framework you can integrate into your existing schedule — no need to overhaul your calendar
+
+• Monday: Start the week by using AI prompts to structure your one-on-ones. Think about what you want to cover and let AI help you organize your thoughts
+
+• Before Feedback: Before you deliver feedback, paste it into an AI tool to check whether your tone is constructive and your message is clear. Catches unintended harshness or confusion
+
+• Before Difficult Conversations: Role-play the conversation with AI playing the other person. This rehearsal reduces anxiety and helps you anticipate pushback
+
+• After Conversations: Take 5 minutes to reflect on what happened and what you committed to. Let AI help you capture follow-up actions so nothing slips
+
+• Friday: Step back and review what you committed to this week. Look for patterns in your coaching — what themes are coming up? What are you noticing about your team?
+
+• Monthly: Use this rhythm to inform your updates to development plans. You'll have real examples and observations fresh in your mind
+
+• The power isn't in any single moment — it's in the consistency. Small touches of preparation and reflection each day add up to noticeably better coaching
+
+
+6
+
+----------------------------------------------------------------------
+
+=== SLIDE 7 ===
+
+Visible content on slide:
+Post-Conversation Reflection Prompt
+Use this prompt after any coaching conversation — real or practice — to extract learning and plan your next move.
+Always anonymize before pasting any conversation details into AI tools.
+AI Prompt: "Act as a coaching reflection partner. Conversation summary: [anonymized summary]. My goal was: [insert]. What happened: [insert]."
+The AI will provide structured reflection across six areas:
+1
+What I Handled Well
+2
+Missed Coaching Opportunities
+3
+Clarity of Next Steps
+4
+Follow-Up Actions
+5
+One Thing to Improve
+6
+A Short Follow-Up Message
+
+Speaker notes (how to teach this slide):
+• This is a tool you can use right after any coaching conversation—whether it's real or practice—to learn from it and plan your next steps.
+
+• The process is simple: use the AI prompt template shown here. Paste in an anonymized summary of your conversation, your original goal, and what actually happened.
+
+• Important: always anonymize before sharing any conversation details with AI tools—remove names and identifying information.
+
+• The AI will give you structured feedback across six key areas:
+
+What you did well
+
+Opportunities you missed to coach deeper
+
+How clear your next steps were
+
+What follow-up actions you need
+
+One specific thing to work on next time
+
+A template for a follow-up message to send
+
+• Use this reflection framework regularly to build your coaching skills over time. Each conversation is a chance to improve.
+
+
+7
+
+----------------------------------------------------------------------
+
+=== SLIDE 8 ===
+
+Visible content on slide:
+Final Project — AI Coaching Teammate Toolkit
+Your final project is to build a personalized AI Coaching Teammate Toolkit — a complete, reusable resource that reflects your coaching philosophy and integrates AI at every stage of the coaching cycle.
+1
+Coaching Philosophy
+Your personal statement of purpose as a coach
+2
+One-on-One Prep Prompt
+AI prompt for preparing weekly check-ins
+3
+Feedback Prompt
+AI prompt for drafting clear, empathetic feedback
+4
+Development Planning Prompt
+AI prompt for building employee growth plans
+5
+Role-Play Prompt
+Difficult conversation rehearsal scenario
+6
+Reflection Prompt
+Post-conversation learning and follow-up
+7
+Weekly Workflow
+Your repeatable AI-assisted coaching rhythm
+8
+Ethical Use Checklist
+Guardrails for responsible AI use
+9
+Success Measures
+How you will know your coaching is working
+
+Speaker notes (how to teach this slide):
+• This is your capstone project — you're building a complete, practical toolkit you can actually use in your coaching work
+
+• Think of this as a personalized resource that brings together everything we've covered: your coaching values, AI prompts for every key moment, and a sustainable workflow
+
+• Walk through each component:
+
+Start with your coaching philosophy — this is your north star, what guides everything else
+
+Then the prompts — one-on-one prep, feedback, development planning, role-play, and reflection — these are your AI partners at each stage
+
+Your weekly workflow ties it all together into a repeatable rhythm
+
+The ethical checklist keeps you grounded and responsible
+
+Success measures help you track what's actually working
+
+• This isn't theoretical — it's a living document you'll refine and use. You're not just learning about AI-assisted coaching, you're building the exact system you'll implement
+
+• By the end, you'll have something concrete, personalized, and ready to deploy with your team
+
+
+8
+
+----------------------------------------------------------------------
+
+=== SLIDE 9 ===
+
+Visible content on slide:
+Coaching Philosophy Template
+Your coaching philosophy is the foundation of your toolkit. It defines what you believe about your role — and where AI fits within it. Complete the statement below and make it your own.
+"My coaching role is to help employees understand expectations, build confidence, strengthen performance, and take ownership of growth.
+I will use AI to prepare, practice, and reflect — but I will keep empathy, judgment, trust, and accountability as my responsibility."
+AI's Role
+Prepare · Practice · Reflect · Draft · Analyze
+Your Role
+Empathy · Judgment · Trust · Accountability · Relationship
+The most effective coaching happens when human wisdom and AI capability work together — each doing what it does best.
+
+Speaker notes (how to teach this slide):
+• This is your coaching philosophy — the foundation of everything you do as a coach
+
+• Read through the statement and personalize it. Make it reflect your actual beliefs about coaching
+
+• Key point: Your role is to help employees understand expectations, build confidence, strengthen performance, and take ownership of their growth
+
+• AI is a tool to help you prepare, practice, and reflect — but certain things remain yours alone
+
+• The human elements — empathy, judgment, trust, and accountability — these are non-negotiable. They can't be outsourced to AI
+
+• Look at the two boxes: AI handles the tactical preparation and analysis. You handle the relationship and the difficult judgment calls
+
+• The insight here is that the best coaching isn't either/or. It's both/and — you use AI to be more efficient and thoughtful, while keeping the human connection at the center
+
+• Take a moment to think about where you might use AI in your own coaching practice, and where you need to stay firmly in the driver's seat
+
+
+9
+
+----------------------------------------------------------------------
+
+=== SLIDE 10 ===
+
+Visible content on slide:
+Ethical Use Checklist
+Before using AI in any coaching context, run through this checklist. Responsible use protects your employees, your organization, and your integrity as a leader.
+Privacy Protected
+I removed all private employee details before using AI
+HR Boundaries Respected
+I avoided entering sensitive HR or legal information
+Bias Reviewed
+I checked the AI output for potential bias or unfair framing
+Accuracy Verified
+I confirmed the content is factually accurate and appropriate
+Humanized
+I adapted the wording so it sounds like me, not a machine
+Policy Compliant
+I followed my organization's AI and data use policies
+Final Decision Mine
+I made the final judgment call — AI only informed it
+Never paste identifiable employee information into any AI tool. Always anonymize first.
+
+Speaker notes (how to teach this slide):
+• This checklist is your guardrail before deploying AI in any coaching situation. It protects your people, your organization, and your credibility.
+
+• Privacy Protected — Strip out names, identifying details, anything that could trace back to a specific person before you paste anything into an AI tool.
+
+• HR Boundaries Respected — Don't feed sensitive information into AI: performance ratings, disciplinary actions, salary data, legal issues. Keep those offline.
+
+• Bias Reviewed — Read the AI output with a critical eye. Does it stereotype? Does it unfairly frame someone or a situation? Catch it before you use it.
+
+• Accuracy Verified — Fact-check what the AI gives you. Make sure it's grounded in reality and appropriate for your context.
+
+• Humanized — If it sounds robotic, rewrite it. Your coaching should sound like you, not like a machine generated it.
+
+• Policy Compliant — Know your organization's rules on AI and data handling. Stay within bounds.
+
+• Final Decision Mine — This is critical. AI is a tool that informs your judgment, not a replacement for it. You own the final call.
+
+• Key reminder: Never, ever paste identifiable employee information into any AI tool. Anonymize first, always.
+
+
+10
+
+----------------------------------------------------------------------
+
+=== SLIDE 11 ===
+
+Visible content on slide:
+Course Success Check
+You have completed the course. You are ready to lead with AI as your coaching teammate. Use this checklist to confirm your readiness — and return to it whenever you want to measure your growth.
+Prepare Conversations
+Use AI to prepare for coaching conversations with clarity and purpose
+Ask Stronger Questions
+Generate open-ended, coaching-quality questions with AI support
+Draft Clearer Feedback
+Use AI to write specific, balanced, and actionable feedback
+Recognize Performance
+Craft meaningful recognition that motivates and reinforces growth
+Build Development Plans
+Co-create employee growth plans that are realistic and inspiring
+Practice Difficult Conversations
+Rehearse challenging scenarios safely before the real moment
+Reflect After Coaching
+Extract learning from every conversation to continuously improve
+Identify Follow-Up Actions
+Close every conversation with clear, owned next steps
+Improve Team Performance
+Build a coaching culture that drives sustained team growth over time
+You are ready. AI does not replace your coaching — it amplifies it. Lead with empathy, prepare with AI, and keep growing.
+
+Speaker notes (how to teach this slide):
+• Congratulations — you've completed the course and you're ready to use AI as your coaching partner
+
+• This checklist covers nine key capabilities you've learned:
+
+Prepare Conversations — use AI for clarity and purpose in your coaching
+
+Ask Stronger Questions — generate coaching-quality open-ended questions
+
+Draft Clearer Feedback — write specific, balanced, actionable feedback with AI help
+
+Recognize Performance — create meaningful recognition that motivates
+
+Build Development Plans — co-create realistic, inspiring growth plans
+
+Practice Difficult Conversations — rehearse challenging scenarios safely first
+
+Reflect After Coaching — learn from every conversation to improve
+
+Identify Follow-Up Actions — ensure every conversation ends with clear next steps
+
+Improve Team Performance — build a coaching culture for sustained growth
+
+• Use this as a reference tool — come back to it whenever you want to assess your progress
+
+• Remember the key message: AI amplifies your coaching, it doesn't replace it. Stay focused on empathy, use AI to prepare, and keep growing as a leader
+
+
+11
+
+----------------------------------------------------------------------
