@@ -666,18 +666,5 @@
         "startSlide": 17
       }
     ]
-  },
-  "1000": {
-    "id": "test_practicing_difficult_conversations_with_ai",
-    "title": "TEST — Practicing Difficult Conversations with AI",
-    "totalSlides": 0,
-    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Practicing-Difficult-Conversations-with-AI.pdf",
-    "firstMessage": "Welcome to TEST — Practicing Difficult Conversations with AI. Are you ready to begin?",
-    "sections": [
-      {
-        "label": "TEST placeholder section (slides 1-1)",
-        "startSlide": 1
-      }
-    ]
   }
 }
