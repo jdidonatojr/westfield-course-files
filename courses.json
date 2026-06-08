@@ -668,15 +668,31 @@
     ]
   },
   "20": {
-    "id": "test_practicing_difficult_conversations_with_ai",
-    "title": "TEST — Practicing Difficult Conversations with AI",
-    "totalSlides": 0,
+    "id": "practicing_difficult_conversations_with_ai",
+    "title": "Practicing Difficult Conversations with AI",
+    "totalSlides": 12,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Practicing-Difficult-Conversations-with-AI.pdf",
-    "firstMessage": "Welcome to TEST — Practicing Difficult Conversations with AI. Are you ready to begin?",
+    "firstMessage": "Welcome to Practicing Difficult Conversations with AI. Are you ready to begin?",
     "sections": [
       {
-        "label": "TEST placeholder section (slides 1-1)",
+        "label": "Opening and Welcome (slides 1-2)",
         "startSlide": 1
+      },
+      {
+        "label": "Why Difficult Conversations Matter (3-5)",
+        "startSlide": 3
+      },
+      {
+        "label": "The Role-Play Method (6-8)",
+        "startSlide": 6
+      },
+      {
+        "label": "Practicing with AI (9-11)",
+        "startSlide": 9
+      },
+      {
+        "label": "Recap and Next Steps (12)",
+        "startSlide": 12
       }
     ]
   }
