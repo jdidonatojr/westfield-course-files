@@ -717,8 +717,16 @@
     "firstMessage": "Welcome to Using AI for Sales Prospecting. Are you ready to begin?",
     "sections": [
       {
-        "label": "Full Course (slides 1-56)",
+        "label": "Opening and welcome (slides 1-2)",
         "startSlide": 1
+      },
+      {
+        "label": "Section 2 (slides 3-19)",
+        "startSlide": 3
+      },
+      {
+        "label": "Section 3 (slides 20-56)",
+        "startSlide": 20
       }
     ]
   }
