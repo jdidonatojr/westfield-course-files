@@ -758,19 +758,23 @@
         "startSlide": 1
       },
       {
-        "label": "Prompt Engineering Foundations (slides 3-4)",
+        "label": "Foundations of Advanced Prompting (slides 3-4)",
         "startSlide": 3
       },
       {
-        "label": "CINDEF Framework Mastery (slides 5-7)",
+        "label": "CINDEF Framework (slides 5-6)",
         "startSlide": 5
       },
       {
-        "label": "Practical Application (slides 8-10)",
-        "startSlide": 8
+        "label": "Integrated Persona Framework (slides 7-8)",
+        "startSlide": 7
       },
       {
-        "label": "Course Wrap-Up (slide 11)",
+        "label": "Application and Practice (slides 9-10)",
+        "startSlide": 9
+      },
+      {
+        "label": "Course Summary (slide 11)",
         "startSlide": 11
       }
     ]
