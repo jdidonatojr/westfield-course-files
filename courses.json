@@ -708,5 +708,18 @@
         "startSlide": 1
       }
     ]
+  },
+  "22": {
+    "id": "using_ai_for_sales_prospecting",
+    "title": "Using AI for Sales Prospecting",
+    "totalSlides": 56,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Using-AI-for-Sales-Prospecting.pdf",
+    "firstMessage": "Welcome to Using AI for Sales Prospecting. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Full Course (slides 1-56)",
+        "startSlide": 1
+      }
+    ]
   }
 }
