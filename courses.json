@@ -758,23 +758,19 @@
         "startSlide": 1
       },
       {
-        "label": "Scaffolding Fundamentals (slides 3-4)",
+        "label": "Prompt Engineering Foundations (slides 3-4)",
         "startSlide": 3
       },
       {
-        "label": "CINDEF Framework (slides 5-6)",
+        "label": "CINDEF Framework Mastery (slides 5-7)",
         "startSlide": 5
       },
       {
-        "label": "Advanced Prompt Engineering Workflow (slides 7-8)",
-        "startSlide": 7
+        "label": "Practical Application (slides 8-10)",
+        "startSlide": 8
       },
       {
-        "label": "Practical Application and Homework (slides 9-10)",
-        "startSlide": 9
-      },
-      {
-        "label": "Course Recap (slide 11)",
+        "label": "Course Wrap-Up (slide 11)",
         "startSlide": 11
       }
     ]
