@@ -745,5 +745,38 @@
         "startSlide": 55
       }
     ]
+  },
+  "23": {
+    "id": "advanced_prompt_engineering_for_high_performing_professionals",
+    "title": "Advanced Prompt Engineering for High Performing Professionals",
+    "totalSlides": 11,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Advanced-Prompt-Engineering-for-High-Performing-Professionals.pdf",
+    "firstMessage": "Welcome to Advanced Prompt Engineering for High Performing Professionals. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Objectives (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Foundational Concepts (slides 3-4)",
+        "startSlide": 3
+      },
+      {
+        "label": "CINDEF Framework (slides 5-6)",
+        "startSlide": 5
+      },
+      {
+        "label": "Advanced Prompt Engineering Workflow (slides 7-8)",
+        "startSlide": 7
+      },
+      {
+        "label": "Practical Application and Homework (slides 9-10)",
+        "startSlide": 9
+      },
+      {
+        "label": "Summary and Accomplishments (slide 11)",
+        "startSlide": 11
+      }
+    ]
   }
 }
