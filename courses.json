@@ -774,5 +774,46 @@
         "startSlide": 9
       }
     ]
+  },
+  "24": {
+    "id": "improve_your_linkedin_presence_with_ai",
+    "title": "Improve Your LinkedIn Presence with AI",
+    "totalSlides": 82,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Improve-Your-LinkedIn-Presence-with-AI.pdf",
+    "firstMessage": "Welcome to Improve Your LinkedIn Presence with AI. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Course Overview (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Module 1: Clarify Your Strategy (slides 5-14)",
+        "startSlide": 5
+      },
+      {
+        "label": "Module 2: Optimize Your Profile (slides 15-29)",
+        "startSlide": 15
+      },
+      {
+        "label": "Module 3: Create LinkedIn Content (slides 30-43)",
+        "startSlide": 30
+      },
+      {
+        "label": "Module 4: Build Consistent Workflow (slides 44-56)",
+        "startSlide": 44
+      },
+      {
+        "label": "Module 5: Use AI Role-Play Practice (slides 57-68)",
+        "startSlide": 57
+      },
+      {
+        "label": "Module 6: Build Your AI Toolkit (slides 69-77)",
+        "startSlide": 69
+      },
+      {
+        "label": "Final Project and Completion (slides 78-82)",
+        "startSlide": 78
+      }
+    ]
   }
 }
