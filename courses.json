@@ -695,5 +695,18 @@
         "startSlide": 12
       }
     ]
+  },
+  "21": {
+    "id": "using_ai_for_prospecting",
+    "title": "Using AI for Prospecting",
+    "totalSlides": 56,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Using-AI-for-Prospecting.pdf",
+    "firstMessage": "Welcome to Using AI for Prospecting. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Full Course (slides 1-56)",
+        "startSlide": 1
+      }
+    ]
   }
 }
