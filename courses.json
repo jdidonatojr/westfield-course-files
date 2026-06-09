@@ -717,8 +717,32 @@
     "firstMessage": "Welcome to Using AI for Sales Prospecting. Are you ready to begin?",
     "sections": [
       {
-        "label": "Full Course (slides 1-56)",
+        "label": "Introduction and Context (slides 1-7)",
         "startSlide": 1
+      },
+      {
+        "label": "Targeting Foundations (slides 8-13)",
+        "startSlide": 8
+      },
+      {
+        "label": "Finding and Researching Prospects (slides 14-26)",
+        "startSlide": 14
+      },
+      {
+        "label": "Conversations and Practice (slides 27-40)",
+        "startSlide": 27
+      },
+      {
+        "label": "Measurement and Scaling (slides 41-45)",
+        "startSlide": 41
+      },
+      {
+        "label": "Your Prospecting Toolkit (slides 46-54)",
+        "startSlide": 46
+      },
+      {
+        "label": "Final Project and Closing (slides 55-56)",
+        "startSlide": 55
       }
     ]
   }
