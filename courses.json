@@ -758,7 +758,7 @@
         "startSlide": 1
       },
       {
-        "label": "Foundations of Advanced Prompting (slides 3-4)",
+        "label": "Prompt Scaffolding Fundamentals (slides 3-4)",
         "startSlide": 3
       },
       {
@@ -766,16 +766,12 @@
         "startSlide": 5
       },
       {
-        "label": "Integrated Persona Framework (slides 7-8)",
+        "label": "Advanced Prompt Engineering Workflow (slides 7-8)",
         "startSlide": 7
       },
       {
-        "label": "Application and Practice (slides 9-10)",
+        "label": "Application and Practice (slides 9-11)",
         "startSlide": 9
-      },
-      {
-        "label": "Course Summary (slide 11)",
-        "startSlide": 11
       }
     ]
   }
