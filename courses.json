@@ -783,23 +783,23 @@
     "firstMessage": "Welcome to Improve Your LinkedIn Presence with AI. Are you ready to begin?",
     "sections": [
       {
-        "label": "Course Overview (slides 1-4)",
+        "label": "Introduction and Course Overview (slides 1-4)",
         "startSlide": 1
       },
       {
-        "label": "Module 1: Goal and Brand (slides 5-14)",
+        "label": "Module 1: Clarify Your Strategy (slides 5-14)",
         "startSlide": 5
       },
       {
-        "label": "Module 2: Profile Optimization (slides 15-29)",
+        "label": "Module 2: Optimize Your Profile (slides 15-29)",
         "startSlide": 15
       },
       {
-        "label": "Module 3: Content Creation (slides 30-43)",
+        "label": "Module 3: Create LinkedIn Content (slides 30-43)",
         "startSlide": 30
       },
       {
-        "label": "Module 4: Weekly Workflow (slides 44-56)",
+        "label": "Module 4: Build Consistent Workflow (slides 44-56)",
         "startSlide": 44
       },
       {
@@ -807,7 +807,7 @@
         "startSlide": 57
       },
       {
-        "label": "Module 6: AI Toolkit (slides 69-77)",
+        "label": "Module 6: Build Your AI Toolkit (slides 69-77)",
         "startSlide": 69
       },
       {
