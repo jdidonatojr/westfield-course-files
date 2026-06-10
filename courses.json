@@ -787,19 +787,19 @@
         "startSlide": 1
       },
       {
-        "label": "Module 1: Clarify Your Strategy (slides 5-14)",
+        "label": "Module 1: Goal and Brand (slides 5-14)",
         "startSlide": 5
       },
       {
-        "label": "Module 2: Optimize Your Profile (slides 15-29)",
+        "label": "Module 2: Profile Optimization (slides 15-29)",
         "startSlide": 15
       },
       {
-        "label": "Module 3: Create Better Content (slides 30-43)",
+        "label": "Module 3: Content Creation (slides 30-43)",
         "startSlide": 30
       },
       {
-        "label": "Module 4: Build Sustainable Workflow (slides 44-56)",
+        "label": "Module 4: Weekly Workflow (slides 44-56)",
         "startSlide": 44
       },
       {
@@ -807,12 +807,8 @@
         "startSlide": 57
       },
       {
-        "label": "Module 6: AI Toolkit and Templates (slides 69-77)",
+        "label": "Module 6: AI Toolkit and Final Project (slides 69-82)",
         "startSlide": 69
-      },
-      {
-        "label": "Final Project and Completion (slides 78-82)",
-        "startSlide": 78
       }
     ]
   }
