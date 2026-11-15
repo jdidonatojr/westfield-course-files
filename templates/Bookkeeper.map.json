@@ -1,0 +1,40 @@
+{
+  "eyebrow_text": " ",
+  "copyright": "© Copyright, ESource AI Group, 2026",
+  "copyright_on_layouts_named": [],
+  "footer_box_emu": [
+    384694,
+    6387858,
+    9285484,
+    338087
+  ],
+  "text_color_hex": "222222",
+  "kinds": {
+    "cover": {
+      "layout": "TITLE",
+      "ph": {
+        "title": 100,
+        "subtitle": 101
+      }
+    },
+    "statement": {
+      "layout": "TITLE",
+      "ph": {
+        "title": 100
+      }
+    },
+    "bullets": {
+      "layout": "TITLE",
+      "ph": {
+        "title": 100,
+        "body": 101
+      }
+    },
+    "statement_light": {
+      "layout": "CONTENT",
+      "ph": {
+        "title": 100
+      }
+    }
+  }
+}
