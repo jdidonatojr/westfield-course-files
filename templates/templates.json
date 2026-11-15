@@ -8,5 +8,10 @@
     "label": "IQVIA (test)",
     "file": "templates/IQVIA-test.pptx",
     "map": "templates/IQVIA-test.map.json"
+  },
+  "Bookkeeper": {
+    "label": "ESource Bookkeeper",
+    "file": "templates/Bookkeeper.pptx",
+    "map": "templates/Bookkeeper.map.json"
   }
 }
